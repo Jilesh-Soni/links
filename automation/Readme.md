@@ -1,0 +1,2 @@
+# Idea
+I love Automation
