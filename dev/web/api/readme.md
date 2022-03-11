@@ -1,0 +1,10 @@
+# links
+- https://www.pluralsight.com/guides/dynamically-change-state-bound-content-with-react.js-on-successful-jquery-request
+- https://blog.logrocket.com/how-when-to-force-react-component-re-render/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+- https://www.google.com/search?q=dom+element+trigger+event&rlz=1C5CHFA_enIN873IN874&sxsrf=APq-WBuYZVc6SG9YkBicwvHT9ZcirDvcLw%3A1646029063634&ei=B2kcYuOnJvzB5OUP7MeT2AM&oq=dom+object+triggering+eve&gs_lcp=Cgdnd3Mtd2l6EAMYADIGCAAQFhAeOgcIABBHELADOgcIABCwAxBDOgQIABBDOgUIABCABDoFCAAQkQI6BQghEKABOgcIIRAKEKABSgQIQRgASgQIRhgAUN4CWN4eYL8naAFwAHgAgAGsAYgBzBGSAQQwLjE1mAEAoAEByAEKwAEB&sclient=gws-wiz
+- https://codingthesmartway.com/create-a-rest-api-with-json-server/
+- https://www.w3schools.com/tags/tag_select.asp
+- https://stackoverflow.com/questions/7231157/how-to-submit-form-on-change-of-dropdown-list
+- https://www.pluralsight.com/guides/react.js-and-inheritance
+- https://en.wikipedia.org/wiki/Analysis_paralysis
